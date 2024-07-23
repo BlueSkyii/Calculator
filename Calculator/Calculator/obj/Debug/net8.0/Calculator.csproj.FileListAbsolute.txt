@@ -1,0 +1,14 @@
+C:\Yousef\C#\Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Yousef\C#\Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Yousef\C#\Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Yousef\C#\Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Yousef\C#\Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Yousef\C#\Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yousef\C#\Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Yousef\C#\Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Yousef\C#\Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Yousef\C#\Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Yousef\C#\Projects\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Yousef\C#\Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Yousef\C#\Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Yousef\C#\Projects\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
